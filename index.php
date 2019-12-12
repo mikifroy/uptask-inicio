@@ -6,7 +6,7 @@ include 'inc/templates/header.php' ;
 ?>
 
 <div class="barra">
-    <h1>UpTask - Administración de Proyectos</h1>
+    <h1>UpTask - Administración de Proyecto</h1>
     <a href="#">Cerrar Sesión</a>
 </div>
 
